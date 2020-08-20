@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_181-b13 (Oracle Corporation)
+Class-Path: lib/eclipselink.jar lib/javax.persistence_2.1.0.v201304241
+ 213.jar lib/org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.
+ jar lib/derby.jar lib/derbyclient.jar lib/derbynet.jar lib/hibernate-
+ jpa-2.1-api-1.0.0.Final.jar lib/AbsoluteLayout.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: proje3.Proje3
+
